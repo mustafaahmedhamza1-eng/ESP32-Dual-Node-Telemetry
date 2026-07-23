@@ -1,0 +1,17 @@
+6,31.56,36.65
+7,31.57,36.86
+8,31.58,36.93
+9,31.58,36.79
+10,31.60,36.65
+
+Diagnostic summary
+--------------------------------
+Valid samples: 10/10
+Average temperature: 31.56 C
+Temperature range: 31.53 to 31.60 C
+Average humidity: 36.79 %
+Humidity range: 36.63 to 37.05 %
+--------------------------------
+Overall result: PASS
+
+Press the ESP32 RST button to run the test again.

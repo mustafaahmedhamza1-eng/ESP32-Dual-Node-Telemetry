@@ -1,0 +1,24 @@
+# Private hardware configuration
+**/board_config.local.h
+**/secrets.h
+
+# Private backups
+private/
+private_backup/
+
+# Arduino build artifacts
+build/
+.cache/
+*.bin
+*.elf
+*.map
+*.hex
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,13 @@
+
+================================
+ESP32 Secondary Board Diagnostics
+SHT31 Temperature and Humidity Test
+================================
+
+Scanning SHT31 I2C bus
+  No I2C devices detected
+
+[FAIL] SHT31 was not detected
+Check power, ground, SDA, SCL, and I2C address.
+
+Press the ESP32 RST button to run the test again.

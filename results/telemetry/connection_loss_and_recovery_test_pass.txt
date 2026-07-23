@@ -1,0 +1,13 @@
+Receiver powered on and waiting for telemetry.
+
+Transmitter powered on
+Delivery status SUCCESS
+
+Transmitter powered off
+Receiver status changed to Link lost after 5 seconds.
+
+Transmitter powered on again
+Communication resumed automatically without resetting the receiver.
+Delivery status SUCCESS
+
+Test result PASS
